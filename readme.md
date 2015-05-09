@@ -1,13 +1,16 @@
 ##个人简历
 >###基本信息
 
-姓名：姚善良&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+姓名：姚善良
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 就读院校：苏州大学
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 专业：软件工程
 
-个人博客：[http://iat.net.cn](http://iat.net.cn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-联系电话：18896581232&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+个人博客：[http://iat.net.cn](http://iat.net.cn)
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+联系电话：18896581232
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
 邮箱：i@iat.net.cn
 
 >###专业技能
@@ -55,5 +58,5 @@
 
 >###自我评价
 
-大一时加入“苏州市融合通信重点实验室”参与实验室的学习交流，喜欢专研前端的Web应用，并将地图、二维码、飞信等整合到自己博客的“[应用]("http://iat.net.cn/app")”栏目
+大一时加入“苏州市融合通信重点实验室”参与实验室的学习交流，喜欢专研前端的Web应用，并将地图、二维码、飞信等整合到自己博客的“[应用](http://iat.net.cn/app)”栏目
 里显示出来。我的志愿是成为一名PHP工程师，深知在LAMPer方面有很多不足，所以仍在求学的道路上努力着。
