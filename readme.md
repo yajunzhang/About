@@ -2,15 +2,15 @@
 >###基本信息
 
 姓名：姚善良
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 就读院校：苏州大学
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 专业：软件工程
 
 个人博客：[http://iat.net.cn](http://iat.net.cn)
-&emsp;&emsp;&emsp;&nbsp;&nbsp;
+&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
 联系电话：18896581232
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
 邮箱：i@iat.net.cn
 
 >###专业技能
